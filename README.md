@@ -55,20 +55,20 @@
 
 ## 📌 Featured Projects
 
-🔹 **Playwright Automation Framework**  
-- End-to-end testing for real production-like applications  
-- CI/CD integrated using GitHub Actions  
-- Covers smoke, regression & negative test cases  
+🔹 **[Playwright E2E Template](https://github.com/TalhaAhmedMubashir/playwright-e2e-template)**  
+- Production-ready framework with Page Object Model  
+- CI/CD matrix across Ubuntu & Windows runners  
+- Includes UI and API test examples  
 
-🔹 **API Testing Collection**  
-- Postman collections for REST APIs  
-- Automated runs using Newman  
-- Includes environment & data-driven testing  
+🔹 **[Automation: Securiti AI Forms Submission](https://github.com/TalhaAhmedMubashir/Automation-securiti-ai-forms-submission)**  
+- TypeScript-based Playwright automation  
+- Form submission validation and workflows  
+- Covers multiple scenarios and edge cases  
 
-🔹 **Manual Test Case Repository**  
-- Real-world test scenarios  
-- Functional, negative & validation test cases  
-- Production-like data coverage  
+🔹 **[Automation: The CW Website](https://github.com/TalhaAhmedMubashir/Automation-The-CW-Website)**  
+- TypeScript E2E test suite for CW platform  
+- Comprehensive test coverage for production website  
+- GitHub Actions integration for continuous testing  
 
 ---
 
