@@ -8,7 +8,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=TalhaAhmedMubashir&style=for-the-badge" alt="Profile views" />
-  
+
+  <!-- Contextual badges linking to relevant work/pages -->
+  <a href="https://github.com/TalhaAhmedMubashir?tab=repositories&q=playwright" target="_blank">
+    <img src="https://img.shields.io/badge/Playwright%20E2E-Framework-45ba4b?style=for-the-badge" alt="Playwright E2E" />
+  </a>
+  <a href="https://github.com/search?q=user%3ATalhaAhmedMubashir+path%3A.github%2Fworkflows&type=code" target="_blank">
+    <img src="https://img.shields.io/badge/CI%20via-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI via GitHub Actions" />
+  </a>
 </p>
 
 ---
@@ -21,6 +28,16 @@
 - 🚀 CI/CD testing with **GitHub Actions**
 - 📱 Real device & cross-browser testing using **BrowserStack**
 - 🏗 Backend familiarity with **Laravel & Firebase**
+
+---
+
+## 🧭 How I Work
+
+- Test-first mindset with clear acceptance criteria and edge cases
+- Maintainable automation using Playwright fixtures and stable selectors
+- CI-ready pipelines via GitHub Actions with reports and artifacts
+- Real-device/browser coverage using BrowserStack for critical paths
+- Concise bug reports with steps, evidence, and scoped impact
 
 ---
 
