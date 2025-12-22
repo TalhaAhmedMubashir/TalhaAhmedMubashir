@@ -21,6 +21,7 @@
 - 🧪 Software QA Engineer with experience in **Web & Mobile Testing**
 - ⚙️ Strong in **Manual Testing** and **Automation using Playwright**
 - 🔁 Experienced in **Regression, Smoke & API Testing**
+- ⚡ Performance & Load Testing with **K6**
 - 🚀 CI/CD testing with **GitHub Actions**
 - 📱 Real device & cross-browser testing using **BrowserStack**
 - 🏗 Backend familiarity with **Node & Firebase**
@@ -46,6 +47,7 @@
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-black?style=for-the-badge)
+![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
 
 ### 🔹 Languages & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
