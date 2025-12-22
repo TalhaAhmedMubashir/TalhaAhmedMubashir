@@ -1,5 +1,3 @@
-# TalhaAhmedMubashir
-
 <h1 align="center">Hi 👋, I'm Talha Ahmed</h1>
 <h3 align="center">Software QA Engineer | Manual & Automation Testing</h3>
 
@@ -7,8 +5,6 @@
   <a href="https://www.linkedin.com/in/talha-ahmed-mubashir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=TalhaAhmedMubashir&style=for-the-badge" alt="Profile views" />
-
   <!-- Contextual badges linking to relevant work/pages -->
   <a href="https://github.com/TalhaAhmedMubashir?tab=repositories&q=playwright" target="_blank">
     <img src="https://img.shields.io/badge/Playwright%20E2E-Framework-45ba4b?style=for-the-badge" alt="Playwright E2E" />
@@ -27,7 +23,9 @@
 - 🔁 Experienced in **Regression, Smoke & API Testing**
 - 🚀 CI/CD testing with **GitHub Actions**
 - 📱 Real device & cross-browser testing using **BrowserStack**
-- 🏗 Backend familiarity with **Laravel & Firebase**
+- 🏗 Backend familiarity with **Node & Firebase**
+- 📧 **SMTP/Gmail** automation & **Android app certificate** handling via Play Store & **IOS app certificate** via App Store
+- 🔐 **OneSignal event stream** configuration for multi-app handling
 
 ---
 
@@ -37,6 +35,7 @@
 - Maintainable automation using Playwright fixtures and stable selectors
 - CI-ready pipelines via GitHub Actions with reports and artifacts
 - Real-device/browser coverage using BrowserStack for critical paths
+- Automate complex workflows: SMTP, Google certificates, push notifications
 - Concise bug reports with steps, evidence, and scoped impact
 
 ---
@@ -59,34 +58,20 @@
 
 ## 📌 Featured Projects
 
-🔹 **Playwright Automation Framework**  
-- End-to-end testing for real production-like applications  
-- CI/CD integrated using GitHub Actions  
-- Covers smoke, regression & negative test cases  
+🔹 **[Playwright E2E Template](https://github.com/TalhaAhmedMubashir/playwright-e2e-template)**  
+- Production-ready framework with Page Object Model  
+- CI/CD matrix across Ubuntu & Windows runners  
+- Includes UI and API test examples  
 
-🔹 **API Testing Collection**  
-- Postman collections for REST APIs  
-- Automated runs using Newman  
-- Includes environment & data-driven testing  
+🔹 **[Automation: Securiti AI Forms Submission](https://github.com/TalhaAhmedMubashir/Automation-securiti-ai-forms-submission)**  
+- TypeScript-based Playwright automation  
+- Form submission validation and workflows  
+- Covers multiple scenarios and edge cases  
 
-🔹 **Manual Test Case Repository**  
-- Real-world test scenarios  
-- Functional, negative & validation test cases  
-- Production-like data coverage  
-
-👉 Check pinned repositories below ⬇️
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalhaAhmedMubashir&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TalhaAhmedMubashir&theme=tokyonight" alt="GitHub Streak" />
-</p>
+🔹 **[Automation: The CW Website](https://github.com/TalhaAhmedMubashir/Automation-The-CW-Website)**  
+- TypeScript E2E test suite for CW platform  
+- Comprehensive test coverage for production website  
+- GitHub Actions integration for continuous testing  
 
 ---
 
@@ -97,5 +82,3 @@
 - 📩 Available for freelance & contract work
 
 ---
-
-⭐ If you like my work, feel free to star the repositories!
