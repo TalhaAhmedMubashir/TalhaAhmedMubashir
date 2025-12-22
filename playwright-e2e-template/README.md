@@ -63,3 +63,10 @@ jobs:
 - For cross-browser/device clouds (e.g., BrowserStack), extend `projects` or use their service runner.
 
 Maintained by: [@TalhaAhmedMubashir](https://github.com/TalhaAhmedMubashir)
+
+## Contact
+
+Need help integrating this template into your project or CI pipeline?
+
+- Email: talhaahmedmubashir@gmail.com
+- LinkedIn: https://www.linkedin.com/in/talha-ahmed-mubashir
