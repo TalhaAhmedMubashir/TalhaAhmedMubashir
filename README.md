@@ -15,7 +15,7 @@
 
 <p align="center">
   A test suite is only worth having if a red build means the product is broken. I build Playwright suites that stay trustworthy, and the CI pipelines that make them gate releases.<br>
-  <b>Open to full-time QA automation roles; contract work welcome.</b> Karachi, Pakistan (UTC+5).
+  <b>Open to full-time QA automation roles: remote, on-site in Karachi, or with relocation.</b> Contract work welcome. Karachi, Pakistan (UTC+5).
 </p>
 
 ---
