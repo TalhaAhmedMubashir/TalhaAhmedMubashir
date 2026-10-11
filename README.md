@@ -26,7 +26,7 @@
 - 📦 Own the **Playwright + TypeScript framework** for an admin platform, REST APIs and a public website: 5 environments, 4 user roles, 6 parallel workers. The team's suite holds **677 tests across 60 modules**
 - ⚙️ Built **11 of the team's 32 GitHub Actions workflows** and co-built 5 more, with 20+ tag-based selective execution paths, Slack notifications and JUnit XML reporting
 - 🚦 Run a **nightly release gate** since July 2026 that gives each module its own verdict and fails a module where no tests ran
-- 📱 Mobile QA for **iOS and Android**, plus real-device and cross-browser coverage via **BrowserStack**
+- 📱 Mobile QA for **iOS and Android**
 - 🔎 Handle **production support** alongside QA, so the suite targets what actually breaks for users
 - 🔐 Automate the awkward parts: SMTP/Gmail verification flows, App Store and Play Store certificate handling, OneSignal push configuration for multi-app setups
 
@@ -46,7 +46,6 @@
 - Test-first mindset with clear acceptance criteria and edge cases
 - Maintainable automation using Playwright fixtures and stable selectors
 - CI-ready pipelines via GitHub Actions with reports and artifacts
-- Real-device and browser coverage through BrowserStack for critical paths
 - A failing test gets traced to its real cause — timing, readiness, or a genuine defect — before anything is "fixed"
 - Concise bug reports with steps, evidence, and scoped user impact
 
@@ -57,7 +56,6 @@
 ### 🔹 Automation & Testing
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
-![BrowserStack](https://img.shields.io/badge/BrowserStack-black?style=for-the-badge)
 
 ### 🔹 Languages & Tools
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
