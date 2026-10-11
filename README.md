@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/TalhaAhmedMubashir/playwright-e2e-template" target="_blank">
-    <img src="https://img.shields.io/badge/Playwright%20E2E-Template-45ba4b?style=for-the-badge" alt="Playwright E2E Template" />
+    <img src="https://img.shields.io/badge/Playwright%20E2E-Starter-45ba4b?style=for-the-badge" alt="Playwright E2E starter" />
   </a>
   <a href="https://github.com/search?q=user%3ATalhaAhmedMubashir+path%3A.github%2Fworkflows&type=code" target="_blank">
     <img src="https://img.shields.io/badge/CI%20via-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI via GitHub Actions" />
@@ -14,18 +14,18 @@
 </p>
 
 <p align="center">
-  I build Playwright suites that stay trustworthy, and the CI pipelines that make them gate releases.<br>
-  <b>Available for freelance and contract QA work.</b>
+  A test suite is only worth having if a red build means the product is broken. I build Playwright suites that stay trustworthy, and the CI pipelines that make them gate releases.<br>
+  <b>Open to full-time QA automation roles; contract work welcome.</b> Karachi, Pakistan (UTC+5).
 </p>
 
 ---
 
 ## 👨‍💻 What I Do
 
-- 🧪 QA Automation Engineer, 3+ years across **web, API and mobile** platforms
-- 📦 **150+ automated tests** across **12 Playwright projects**, running 6-way parallel over 5 environments and 4 user roles
-- ⚙️ **5 GitHub Actions workflows** with 20+ tag-based selective execution paths, Slack notifications and JUnit XML reporting
-- ⚡ Cut **regression execution time by 60%** on a multi-environment platform
+- 🧪 **3+ years in QA**, 2 of them in test automation, across **web, API and mobile**; Jr. SQA & Support Engineer at Avialdo Solutions since July 2024
+- 📦 Own the **Playwright + TypeScript framework** for an admin platform, REST APIs and a public website: 5 environments, 4 user roles, 6 parallel workers. The team's suite holds **677 tests across 60 modules**
+- ⚙️ Built **11 of the team's 32 GitHub Actions workflows** and co-built 5 more, with 20+ tag-based selective execution paths, Slack notifications and JUnit XML reporting
+- 🚦 Run a **nightly release gate** since July 2026 that gives each module its own verdict and fails a module where no tests ran
 - 📱 Mobile QA for **iOS and Android**, plus real-device and cross-browser coverage via **BrowserStack**
 - 🔎 Handle **production support** alongside QA, so the suite targets what actually breaks for users
 - 🔐 Automate the awkward parts: SMTP/Gmail verification flows, App Store and Play Store certificate handling, OneSignal push configuration for multi-app setups
@@ -72,8 +72,8 @@
 
 ## 📌 Featured Projects
 
-🔹 **[Playwright E2E Template](https://github.com/TalhaAhmedMubashir/playwright-e2e-template)**
-- Production-ready framework with Page Object Model
+🔹 **[Playwright E2E Starter](https://github.com/TalhaAhmedMubashir/playwright-e2e-template)**
+- A minimal starter with the Page Object Model
 - CI/CD matrix across Ubuntu & Windows runners
 - Includes UI and API test examples
 
@@ -82,15 +82,10 @@
 - Page Object Model, video capture and Allure reporting
 - GitHub Actions integration for continuous testing
 
-🔹 **[Automation: Securiti AI Forms Submission](https://github.com/TalhaAhmedMubashir/Automation-securiti-ai-forms-submission)**
-- TypeScript Playwright automation for web form validation
-- End-to-end submission workflows with email verification
-- Covers multiple scenarios and edge cases
-
 ---
 
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/talha-ahmed-mubashir
 - 📩 talhaahmedmubashir@gmail.com
-- 🧪 Open to freelance, contract and QA automation collaborations
+- 🧪 Open to full-time QA automation roles; contract work welcome
