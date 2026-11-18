@@ -84,9 +84,9 @@
 - Includes UI and API test examples
 
 🔹 **[Automation: The CW Website](https://github.com/TalhaAhmedMubashir/Automation-The-CW-Website)**
-- TypeScript E2E suite for an OTT streaming platform
-- Page Object Model, video capture and Allure reporting
-- GitHub Actions integration for continuous testing
+- Playwright + TypeScript E2E suite for an OTT streaming platform
+- Page Object Model
+- Video player and search tests
 
 ---
 
