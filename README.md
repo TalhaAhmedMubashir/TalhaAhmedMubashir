@@ -2,6 +2,9 @@
 <h3 align="center">QA Automation Engineer | Playwright + TypeScript | Test frameworks & CI/CD pipelines</h3>
 
 <p align="center">
+  <a href="https://talhaahmedmubashir.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-talhaahmedmubashir.github.io-111111?style=for-the-badge" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/talha-ahmed-mubashir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -70,6 +73,11 @@
 
 ## 📌 Featured Projects
 
+🔹 **[Playwright Release Confidence](https://github.com/TalhaAhmedMubashir/playwright-release-confidence)**
+- Public test suite for an open-source booking app: 76 tests across its API, its pages in Chromium, Firefox and WebKit, and accessibility
+- A release gate that gives each area its own verdict and is required before every merge
+- Found 21 defects, each reproduced in CI and tracked as an issue; [latest report](https://talhaahmedmubashir.github.io/playwright-release-confidence/)
+
 🔹 **[Playwright E2E Starter](https://github.com/TalhaAhmedMubashir/playwright-e2e-template)**
 - A minimal starter with the Page Object Model
 - CI/CD matrix across Ubuntu & Windows runners
@@ -84,6 +92,7 @@
 
 ## 🤝 Let's Connect
 
+- 🌐 Portfolio: https://talhaahmedmubashir.github.io/
 - 💼 LinkedIn: https://www.linkedin.com/in/talha-ahmed-mubashir
 - 📩 talhaahmedmubashir@gmail.com
 - 🧪 Open to freelance projects and full-time QA automation roles
